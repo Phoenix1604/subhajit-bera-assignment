@@ -1,0 +1,9 @@
+git clone git@github.com:Phoenix1604/first-contributions.git
+git switch -c subhajit
+vi subhajit.txt
+git add subhajit.txt
+git commit -m Subhajit's commit
+git push -u origin subhajit
+
+2------------------------
+
